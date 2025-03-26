@@ -1,4 +1,4 @@
 
 
-![liuruibin's Stats](https://github-readme-stats.vercel.app/api?username=liuruibin&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true)
+![liuruibin's Stats](https://github-readme-stats.vercel.app/api?username=liuruibin&show_icons=true&theme=ambient_gradient&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
